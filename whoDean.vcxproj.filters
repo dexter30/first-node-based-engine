@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="dep">
+      <UniqueIdentifier>{0181b08c-3972-4823-b25b-3005977fdcb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="engine">
+      <UniqueIdentifier>{6ed8d633-1328-4a9f-b6dc-9f7abde2c07c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="dependencies\GL\eglew.h">
+      <Filter>dep</Filter>
+    </ClInclude>
+    <ClInclude Include="dependencies\GL\freeglut.h">
+      <Filter>dep</Filter>
+    </ClInclude>
+    <ClInclude Include="dependencies\GL\freeglut_ext.h">
+      <Filter>dep</Filter>
+    </ClInclude>
+    <ClInclude Include="dependencies\GL\freeglut_std.h">
+      <Filter>dep</Filter>
+    </ClInclude>
+    <ClInclude Include="dependencies\GL\glew.h">
+      <Filter>dep</Filter>
+    </ClInclude>
+    <ClInclude Include="dependencies\GL\glut.h">
+      <Filter>dep</Filter>
+    </ClInclude>
+    <ClInclude Include="dependencies\GL\glxew.h">
+      <Filter>dep</Filter>
+    </ClInclude>
+    <ClInclude Include="dependencies\GL\wglew.h">
+      <Filter>dep</Filter>
+    </ClInclude>
+    <ClInclude Include="dependencies\internal\platform.h">
+      <Filter>dep</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\Display.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\GameObject.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\Input.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\MeshData.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\objfile.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\Platform.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\Transform.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\WhoDeanApp.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\Component.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\bounds.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\Graphics.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\sceneSetup.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\lodepng.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\Player.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\collider.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\deanX.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\DCamera.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\cameraControl.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\deanPhysics.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\physicsInstance.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\skyBox.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\WhoDeanUI.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\UIcontext.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\h\evilBlock.h">
+      <Filter>engine</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\cpp\Display.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\GameObject.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\Input.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\Main.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\MeshData.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\objfile.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\Transform.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\WhoDeanApp.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\Component.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\bounds.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\Graphics.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\sceneSetup.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\lodepng.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\Player.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\collider.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\deanX.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\cameraControl.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\deanPhysics.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\physicsInstance.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\WhoDeanUI.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\skyBox.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\UIcontext.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\DCamera.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\cpp\evilBlock.cpp">
+      <Filter>engine</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

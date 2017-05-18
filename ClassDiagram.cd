@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UIcontext">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAABAAQAAAAwAQAAAABAAAggAAAAAAABoACAEABA=</HashCode>
+      <FileName>src\h\UIcontext.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WhoDeanUI" Collapsed="true">
+    <Position X="18.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADAAAgAAAAAAAAAAAIAAAAAIAAQAAAAQAQEAAAAEAAA=</HashCode>
+      <FileName>src\h\WhoDeanUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bounds" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAQQIAUCAABAIAAAAAABAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>src\h\bounds.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cameraControl" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAEAAAAQAAAA=</HashCode>
+      <FileName>src\h\cameraControl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCamera">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAIiAAAAAAAAAAIAAAIBACAAAAAQAAAAAAAgAEAAA=</HashCode>
+      <FileName>src\h\DCamera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="collider">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAQAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>src\h\collider.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Component">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEBAAAAAABAAAAAAAAEAAAAAACAEAAA=</HashCode>
+      <FileName>src\h\Component.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Display" Collapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAABAAAAAAAAAAACQACAAAAAAAAAAAA=</HashCode>
+      <FileName>src\h\Display.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject" Collapsed="true">
+    <Position X="10" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAECIAAAAAAEBACAAAABAAAAAAAAACAAAAACAEEAA=</HashCode>
+      <FileName>src\h\GameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics" Collapsed="true">
+    <Position X="24" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAgCAAAEAAAAAAAIEAAAAAAhAAAIEAAAAAAAAAAA=</HashCode>
+      <FileName>src\h\Graphics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Input" Collapsed="true">
+    <Position X="17" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAIAAAIAAAAIAEAAECAAAAACAACAAABCAAAACA=</HashCode>
+      <FileName>src\h\Input.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshData">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgBKAABAAAAAAKAAAAAABAiCAAEACCCUCAQAAQEgAA=</HashCode>
+      <FileName>src\h\MeshData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="objfile" Collapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgABAgAACCEAACAAAAAEAAAEAQBAAAAAAAA=</HashCode>
+      <FileName>src\h\objfile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="physicsInstance" Collapsed="true">
+    <Position X="20.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\h\physicsInstance.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="skyBox" Collapsed="true">
+    <Position X="24" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAhAAAAAAhAgAAIAAIAAAAAAAAAAAAEAQAAA=</HashCode>
+      <FileName>src\h\skyBox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Transform">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACICgAAAAAAAAAABAQAAQAoAICCAAAAAAAEAIA=</HashCode>
+      <FileName>src\h\Transform.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WhoDean::Engine::evilBlock" Collapsed="true">
+    <Position X="10" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAACAAIAA=</HashCode>
+      <FileName>src\h\evilBlock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WhoDean::Engine::deanPhysics">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAIAAAAAAAAEAIAAAAI9AAAAABAACAAAAAAAAMQAA=</HashCode>
+      <FileName>src\h\deanPhysics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WhoDean::Engine::deanX" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAIAAAAAAAIAAAAAACAGAAAEAAAAAAAA=</HashCode>
+      <FileName>src\h\deanX.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WhoDean::Engine::Player">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAACAAAABAAAAAAAAAAAAAAAQIEABA=</HashCode>
+      <FileName>src\h\Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WhoDean::Engine::sceneSetup" Collapsed="true">
+    <Position X="22.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>src\h\sceneSetup.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WhoDean::Engine::WhoDeanApp" Collapsed="true">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAgAAAAAAQABEAAAAAAAAAAAEAAACAAAAABAAAAA=</HashCode>
+      <FileName>src\h\WhoDeanApp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="uivector" Collapsed="true">
+    <Position X="20.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAQAAAAAAQAAAAAAA=</HashCode>
+      <FileName>src\cpp\lodepng.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ucvector" Collapsed="true">
+    <Position X="18.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAQAAAAAAQAAAAAAA=</HashCode>
+      <FileName>src\cpp\lodepng.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="HuffmanTree" Collapsed="true">
+    <Position X="18.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAEAAAAAAAAAICAAAAAAAAACAA=</HashCode>
+      <FileName>src\cpp\lodepng.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="BPMNode" Collapsed="true">
+    <Position X="18.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAABAgA=</HashCode>
+      <FileName>src\cpp\lodepng.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="BPMLists" Collapsed="true">
+    <Position X="17" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAKAAABAAAABAAAAAAAsAAIAAAA=</HashCode>
+      <FileName>src\cpp\lodepng.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Hash" Collapsed="true">
+    <Position X="17" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAgAAAAAAAAIAAAAAAIAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>src\cpp\lodepng.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ColorTree" Collapsed="true">
+    <Position X="22.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>src\cpp\lodepng.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Character" Collapsed="true">
+    <Position X="20.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIIAAAAgAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\h\WhoDeanUI.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LodePNGDecompressSettings" Collapsed="true">
+    <Position X="18.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAgAABAAAAAA=</HashCode>
+      <FileName>src\h\lodepng.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LodePNGCompressSettings" Collapsed="true">
+    <Position X="24" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAIAAAACAAAAAAoAAAACAAAACIAAEAAAAAAA=</HashCode>
+      <FileName>src\h\lodepng.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LodePNGColorMode" Collapsed="true">
+    <Position X="20.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAIAAIAAAAAAEQABAIAAAAAAIAAAA=</HashCode>
+      <FileName>src\h\lodepng.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LodePNGTime" Collapsed="true">
+    <Position X="24" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAAAAAAAAAAgAAAAAAAAQAAAAAAAAiAAAAAAA=</HashCode>
+      <FileName>src\h\lodepng.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LodePNGInfo" Collapsed="true">
+    <Position X="22.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABQgAQAEAAgAAAEAQAAEQQwEAAAACAAQECAAAAEkA=</HashCode>
+      <FileName>src\h\lodepng.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LodePNGDecoderSettings" Collapsed="true">
+    <Position X="17" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAEAAAAAAAAAAAAAAAAAAAABAAgAQAAAAAAA=</HashCode>
+      <FileName>src\h\lodepng.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LodePNGColorProfile" Collapsed="true">
+    <Position X="22.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAgAAAEBIAAEAAAAAAAAABAIAAAQAAAAAAA=</HashCode>
+      <FileName>src\h\lodepng.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LodePNGEncoderSettings" Collapsed="true">
+    <Position X="20.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACABAAQAAAAAAAAAAAAAACAAIIAQgAAAAAA=</HashCode>
+      <FileName>src\h\lodepng.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="objPart" Collapsed="true">
+    <Position X="17" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CALCAAAAAAAABDRAAoAAogABkAAAAACRAQCACABACBA=</HashCode>
+      <FileName>src\h\objfile.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="WhoDean::Engine::Context" Collapsed="true">
+    <Position X="24" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\h\WhoDeanApp.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="LodePNGColorType" Collapsed="true">
+    <Position X="17" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAIBAAAAAAAAAACAAAAAAAIAA=</HashCode>
+      <FileName>src\h\lodepng.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LodePNGFilterStrategy" Collapsed="true">
+    <Position X="18.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAARAAAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAA=</HashCode>
+      <FileName>src\h\lodepng.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
